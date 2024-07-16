@@ -1,0 +1,6 @@
+5
+CityA|CityB|100|60
+CityA|CityC|200|120
+CityB|CityC|50|30
+CityB|CityD|150|90
+CityC|CityD|100|60
