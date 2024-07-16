@@ -1,0 +1,3 @@
+2
+CityA|CityD|T
+CityB|CityC|C
